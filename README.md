@@ -68,5 +68,5 @@ Kod Modülerliği: Tek dosya üzerinde toplanan yoğun frontend (JavaScript/HTML
 
 Hata Yönetimi: Uygulama genelinde daha kapsamlı bir hata loglama ve kullanıcı bilgilendirme sisteminin kurulması.
 
-Not
+Not:
 Bu proje bir Software Engineering öğrencisi tarafından CBS ve 3D simülasyon yeteneklerini test etmek amacıyla geliştirilmiştir.
