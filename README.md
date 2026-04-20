@@ -1,7 +1,3 @@
-Harika bir metin olmuş, projeyi çok net özetliyor. "Notlar" kısmını projeyi inceleyen kişiye (örneğin bir işe alım uzmanına veya hocana) teknik farkındalığı yüksek bir mühendis olduğun mesajını vermek için kullanacağız.
-
-Bu notları "🚀 Gelecek Geliştirmeler ve Teknik Yol Haritası" başlığı altında eklemek, projenin eksiklerini gizlemek yerine onları birer "gelişim fırsatı" olarak gördüğünü kanıtlar. İşte hazırladığın metne bu notları da entegre edilmiş hali:
-
 🌍 3D Flight Simulation & Geospatial Data Management
 Bu proje; ASP.NET MVC mimarisi üzerine kurulu, CesiumJS kütüphanesi ile 3D harita görselleştirmesi sunan ve uçuş simülasyonu gerçekleştiren kapsamlı bir Coğrafi Bilgi Sistemi (CBS) uygulamasıdır. Kullanıcılar, 3D modelleri (.glb) harita üzerinde konumlandırabilir, karmaşık rotalar oluşturabilir ve bu süreçlerin sonunda raporlar alabilirler.
 
